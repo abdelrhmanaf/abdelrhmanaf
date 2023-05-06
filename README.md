@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [deploying-ec2-using-terraform](https://github.com/abdelrhmanaf/deploying-ec2-using-terraform)
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **Grafana and AWS Crtified Solutions Architect**
 
 - 📝 I regularly write articles on [DevOps](DevOps)
 
