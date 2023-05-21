@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/abdoaf998" target="blank"><img src="https://img.shields.io/twitter/follow/abdoaf998?logo=twitter&style=for-the-badge" alt="abdoaf998" /></a> </p>
 
-- 🔭 I’m currently working on [deploying-ec2-using-terraform](https://github.com/abdelrhmanaf/deploying-ec2-using-terraform)
+- 🔭 I’m currently working on [Terraform Codes](https://github.com/abdelrhmanaf/terraform-Script)
 
 - 🌱 I’m currently learning **Grafana and AWS Crtified Solutions Architect**
 
