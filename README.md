@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/abdoaf998" target="blank"><img src="https://img.shields.io/twitter/follow/abdoaf998?logo=twitter&style=for-the-badge" alt="abdoaf998" /></a> </p>
 
-- 🔭 I’m currently working on [Terraform Codes](https://github.com/abdelrhmanaf/terraform-Script)
+- 🔭 I’m currently working on [CI-Jenkins-Nexus-Sonar](https://github.com/abdelrhmanaf/CI-Jenkins-Nexus-Sonar.git)
 
-- 🌱 I’m currently learning **Grafana and AWS Crtified Solutions Architect**
+- 🌱 I’m currently learning **Terraform and Kubernetes**
 
 - 📝 I regularly write articles on [DevOps](DevOps)
 
